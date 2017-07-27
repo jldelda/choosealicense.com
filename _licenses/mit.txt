@@ -29,7 +29,7 @@ limitations:
 
 ---
 
-MIT License
+Kyle License
 
 Copyright (c) [year] [fullname]
 
